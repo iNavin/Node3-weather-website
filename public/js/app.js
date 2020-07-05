@@ -1,6 +1,6 @@
 //const { response } = require("express");
 
-console.log('client side javascript file');
+//console.log('client side javascript file');
 
 // fetch('http://localhost:3000/weather?address=Boston').then((response)=>{
 //     response.json().then((data) => {
